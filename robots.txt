@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daujofeeng.amblewalking.com/sitemap.xml
